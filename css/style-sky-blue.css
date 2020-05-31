@@ -24,12 +24,12 @@ h6 {
 }
 
 a {
-  color: #999;
+  color: #48abec;
   transition: all 0.5s ease-in-out;
 }
 
 a:hover {
-  color: #48abec;
+  color: #999;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
